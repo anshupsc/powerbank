@@ -1,0 +1,5 @@
+{
+	"ip":"MentalHospitalx.aternos.me",
+	"port": "17499",
+	"name": "powerbank"
+}
